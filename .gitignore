@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+template_renders/
+template_cache/
+outputs/
+*.egg-info/
+dist/
+build/
